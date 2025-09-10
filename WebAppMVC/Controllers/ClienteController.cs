@@ -10,22 +10,22 @@ using WebAppMVC.Models;
 
 namespace WebAppMVC.Controllers
 {
-    public class ClienteModelsController : Controller
+    public class ClienteController : Controller
     {
         private readonly ArtesaniasDBContext _context;
 
-        public ClienteModelsController(ArtesaniasDBContext context)
+        public ClienteController(ArtesaniasDBContext context)
         {
             _context = context;
         }
 
-        // GET: ClienteModels
+        // GET: Cliente
         public async Task<IActionResult> Index()
         {
             return View(await _context.Clientes.ToListAsync());
         }
 
-        // GET: ClienteModels/Details/5
+        // GET: Cliente/Details/5
         public async Task<IActionResult> Details(int? id)
         {
             if (id == null)
@@ -43,13 +43,13 @@ namespace WebAppMVC.Controllers
             return View(clienteModel);
         }
 
-        // GET: ClienteModels/Create
+        // GET: Cliente/Create
         public IActionResult Create()
         {
             return View();
         }
 
-        // POST: ClienteModels/Create
+        // POST: Cliente/Create
         // To protect from overposting attacks, enable the specific properties you want to bind to.
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
@@ -58,14 +58,14 @@ namespace WebAppMVC.Controllers
         {
             if (ModelState.IsValid)
             {
-                _context.Clientes.Add(clienteModel);
+                _context.Add(clienteModel);
                 await _context.SaveChangesAsync();
                 return RedirectToAction(nameof(Index));
             }
             return View(clienteModel);
         }
 
-        // GET: ClienteModels/Edit/5
+        // GET: Cliente/Edit/5
         public async Task<IActionResult> Edit(int? id)
         {
             if (id == null)
@@ -81,7 +81,7 @@ namespace WebAppMVC.Controllers
             return View(clienteModel);
         }
 
-        // POST: ClienteModels/Edit/5
+        // POST: Cliente/Edit/5
         // To protect from overposting attacks, enable the specific properties you want to bind to.
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
@@ -116,7 +116,7 @@ namespace WebAppMVC.Controllers
             return View(clienteModel);
         }
 
-        // GET: ClienteModels/Delete/5
+        // GET: Cliente/Delete/5
         public async Task<IActionResult> Delete(int? id)
         {
             if (id == null)
@@ -134,7 +134,7 @@ namespace WebAppMVC.Controllers
             return View(clienteModel);
         }
 
-        // POST: ClienteModels/Delete/5
+        // POST: Cliente/Delete/5
         [HttpPost, ActionName("Delete")]
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> DeleteConfirmed(int id)

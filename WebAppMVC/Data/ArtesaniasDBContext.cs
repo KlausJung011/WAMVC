@@ -24,9 +24,9 @@ namespace WebAppMVC.Data
 
             // Configuración de la relación entre Pedido y DetallePedido (One-to-Many)
             // Un Pedido tiene Muchos Detalles de Pedido
-            modelBuilder.Entity<PedidoModel>()
-                .HasMany(p => p.DetallePedidos) // Un Pedido tiene muchos DetallePedidos
-                .WithOne(d => d.Pedido) // Un DetallePedido pertenece a un Pedido
+            modelBuilder.Entity<DetallePedidoModel>()
+                .HasOne(d => d.Pedido) // Un DetallePedido pertenece a un Pedido
+                .WithMany(p => p.DetallePedidos) // Un Pedido tiene muchos DetallePedidos
                 .HasForeignKey(d => d.IdPedido); // La clave foránea es IdPedido
 
             // Configuración de la relación entre DetallePedido y Producto (Many-to-One)
