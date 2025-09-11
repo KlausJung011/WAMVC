@@ -8,7 +8,7 @@ using Microsoft.EntityFrameworkCore;
 using WebAppMVC.Data;
 using WebAppMVC.Models;
 
-namespace WebAppMVC.Views
+namespace WebAppMVC.Controllers
 {
     public class DetallePedidoController : Controller
     {
@@ -49,8 +49,8 @@ namespace WebAppMVC.Views
         // GET: DetallePedido/Create
         public IActionResult Create()
         {
-            ViewData["IdPedido"] = new SelectList(_context.Pedidos, "Id", "Estado");
-            ViewData["IdProducto"] = new SelectList(_context.Productos, "Id", "Descripcion");
+            ViewData["IdPedido"] = new SelectList(_context.Pedidos, "Id", "FechaPedido");
+            ViewData["IdProducto"] = new SelectList(_context.Productos, "Id", "Nombre");
             return View();
         }
 
@@ -67,8 +67,8 @@ namespace WebAppMVC.Views
                 await _context.SaveChangesAsync();
                 return RedirectToAction(nameof(Index));
             }
-            ViewData["IdPedido"] = new SelectList(_context.Pedidos, "Id", "Estado", detallePedidoModel.IdPedido);
-            ViewData["IdProducto"] = new SelectList(_context.Productos, "Id", "Descripcion", detallePedidoModel.IdProducto);
+            ViewData["IdPedido"] = new SelectList(_context.Pedidos, "Id", "FechaPedido", detallePedidoModel.IdPedido);
+            ViewData["IdProducto"] = new SelectList(_context.Productos, "Id", "Nombre", detallePedidoModel.IdProducto);
             return View(detallePedidoModel);
         }
 
@@ -85,8 +85,8 @@ namespace WebAppMVC.Views
             {
                 return NotFound();
             }
-            ViewData["IdPedido"] = new SelectList(_context.Pedidos, "Id", "Estado", detallePedidoModel.IdPedido);
-            ViewData["IdProducto"] = new SelectList(_context.Productos, "Id", "Descripcion", detallePedidoModel.IdProducto);
+            ViewData["IdPedido"] = new SelectList(_context.Pedidos, "Id", "FechaPedido", detallePedidoModel.IdPedido);
+            ViewData["IdProducto"] = new SelectList(_context.Productos, "Id", "Nombre", detallePedidoModel.IdProducto);
             return View(detallePedidoModel);
         }
 
@@ -122,8 +122,8 @@ namespace WebAppMVC.Views
                 }
                 return RedirectToAction(nameof(Index));
             }
-            ViewData["IdPedido"] = new SelectList(_context.Pedidos, "Id", "Estado", detallePedidoModel.IdPedido);
-            ViewData["IdProducto"] = new SelectList(_context.Productos, "Id", "Descripcion", detallePedidoModel.IdProducto);
+            ViewData["IdPedido"] = new SelectList(_context.Pedidos, "Id", "FechaPedido", detallePedidoModel.IdPedido);
+            ViewData["IdProducto"] = new SelectList(_context.Productos, "Id", "Nombre", detallePedidoModel.IdProducto);
             return View(detallePedidoModel);
         }
 

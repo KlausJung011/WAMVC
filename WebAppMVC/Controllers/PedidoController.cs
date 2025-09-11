@@ -8,7 +8,7 @@ using Microsoft.EntityFrameworkCore;
 using WebAppMVC.Data;
 using WebAppMVC.Models;
 
-namespace WebAppMVC.Views
+namespace WebAppMVC.Controllers
 {
     public class PedidoController : Controller
     {
@@ -48,7 +48,7 @@ namespace WebAppMVC.Views
         // GET: Pedido/Create
         public IActionResult Create()
         {
-            ViewData["IdCliente"] = new SelectList(_context.Clientes, "Id", "Direccion");
+            ViewData["IdCliente"] = new SelectList(_context.Clientes, "Id", "Nombre");
             return View();
         }
 
@@ -65,7 +65,7 @@ namespace WebAppMVC.Views
                 await _context.SaveChangesAsync();
                 return RedirectToAction(nameof(Index));
             }
-            ViewData["IdCliente"] = new SelectList(_context.Clientes, "Id", "Direccion", pedidoModel.IdCliente);
+            ViewData["IdCliente"] = new SelectList(_context.Clientes, "Id", "Nombre", pedidoModel.IdCliente);
             return View(pedidoModel);
         }
 
@@ -82,7 +82,7 @@ namespace WebAppMVC.Views
             {
                 return NotFound();
             }
-            ViewData["IdCliente"] = new SelectList(_context.Clientes, "Id", "Direccion", pedidoModel.IdCliente);
+            ViewData["IdCliente"] = new SelectList(_context.Clientes, "Id", "Nombre", pedidoModel.IdCliente);
             return View(pedidoModel);
         }
 
@@ -118,7 +118,7 @@ namespace WebAppMVC.Views
                 }
                 return RedirectToAction(nameof(Index));
             }
-            ViewData["IdCliente"] = new SelectList(_context.Clientes, "Id", "Direccion", pedidoModel.IdCliente);
+            ViewData["IdCliente"] = new SelectList(_context.Clientes, "Id", "Nombre", pedidoModel.IdCliente);
             return View(pedidoModel);
         }
 

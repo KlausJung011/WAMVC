@@ -1,4 +1,5 @@
-﻿using System.ComponentModel.DataAnnotations;
+﻿using Microsoft.AspNetCore.Mvc;
+using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
 
 namespace WebAppMVC.Models
@@ -10,6 +11,7 @@ namespace WebAppMVC.Models
         [Display(Name = "Nombre del producto")]
         [Required(ErrorMessage = "El nombre es obligatorio")]
         [StringLength(100, MinimumLength = 3, ErrorMessage = "El nombre debe tener entre 3 y 100 caracteres")]
+        //[Remote(action: "CheckNombreUnico", controller: "Productos", AdditionalFields = nameof(Id), ErrorMessage = "Ya existe un producto con ese nombre.")]
         public string Nombre { get; set; }
 
         [Display(Name = "Descripción")]
@@ -20,7 +22,8 @@ namespace WebAppMVC.Models
         [Display(Name = "Precio")]
         [Required(ErrorMessage = "El precio es obligatorio")]
         [Column(TypeName = "decimal(10,2)")]
-        [Range(0.01, double.MaxValue, ErrorMessage = "El precio debe ser mayor a 0")]
+        [Range(0.01, 99999999.99, ErrorMessage = "El precio debe estar entre 0.01 y 99,999,999.99")]
+        [RegularExpression(@"^\d{1,8}(\.\d{1,2})?$", ErrorMessage = "Máximo 8 dígitos antes y 2 después del punto decimal")]
         public decimal Precio { get; set; }
 
         [Display(Name = "Cantidad en stock")]
