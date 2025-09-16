@@ -3,6 +3,45 @@
   "WorkspaceRootPath": "E:\\Univalle\\Semestre4\\Programacion Web 3\\WAMVC\\WebAppMVC\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{4F75B55C-F9F3-4BE2-847C-B04BCACFB28D}|WebAppMVC.csproj|e:\\univalle\\semestre4\\programacion web 3\\wamvc\\webappmvc\\views\\cliente\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4F75B55C-F9F3-4BE2-847C-B04BCACFB28D}|WebAppMVC.csproj|solutionrelative:views\\cliente\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F75B55C-F9F3-4BE2-847C-B04BCACFB28D}|WebAppMVC.csproj|e:\\univalle\\semestre4\\programacion web 3\\wamvc\\webappmvc\\views\\cliente\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4F75B55C-F9F3-4BE2-847C-B04BCACFB28D}|WebAppMVC.csproj|solutionrelative:views\\cliente\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F75B55C-F9F3-4BE2-847C-B04BCACFB28D}|WebAppMVC.csproj|e:\\univalle\\semestre4\\programacion web 3\\wamvc\\webappmvc\\views\\detallepedido\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4F75B55C-F9F3-4BE2-847C-B04BCACFB28D}|WebAppMVC.csproj|solutionrelative:views\\detallepedido\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F75B55C-F9F3-4BE2-847C-B04BCACFB28D}|WebAppMVC.csproj|e:\\univalle\\semestre4\\programacion web 3\\wamvc\\webappmvc\\views\\detallepedido\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4F75B55C-F9F3-4BE2-847C-B04BCACFB28D}|WebAppMVC.csproj|solutionrelative:views\\detallepedido\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F75B55C-F9F3-4BE2-847C-B04BCACFB28D}|WebAppMVC.csproj|e:\\univalle\\semestre4\\programacion web 3\\wamvc\\webappmvc\\views\\pedido\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4F75B55C-F9F3-4BE2-847C-B04BCACFB28D}|WebAppMVC.csproj|solutionrelative:views\\pedido\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F75B55C-F9F3-4BE2-847C-B04BCACFB28D}|WebAppMVC.csproj|e:\\univalle\\semestre4\\programacion web 3\\wamvc\\webappmvc\\views\\pedido\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4F75B55C-F9F3-4BE2-847C-B04BCACFB28D}|WebAppMVC.csproj|solutionrelative:views\\pedido\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F75B55C-F9F3-4BE2-847C-B04BCACFB28D}|WebAppMVC.csproj|e:\\univalle\\semestre4\\programacion web 3\\wamvc\\webappmvc\\views\\producto\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4F75B55C-F9F3-4BE2-847C-B04BCACFB28D}|WebAppMVC.csproj|solutionrelative:views\\producto\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F75B55C-F9F3-4BE2-847C-B04BCACFB28D}|WebAppMVC.csproj|e:\\univalle\\semestre4\\programacion web 3\\wamvc\\webappmvc\\views\\producto\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4F75B55C-F9F3-4BE2-847C-B04BCACFB28D}|WebAppMVC.csproj|solutionrelative:views\\producto\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User one\\AppData\\Local\\github-copilot\\apps.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F75B55C-F9F3-4BE2-847C-B04BCACFB28D}|WebAppMVC.csproj|e:\\univalle\\semestre4\\programacion web 3\\wamvc\\webappmvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4F75B55C-F9F3-4BE2-847C-B04BCACFB28D}|WebAppMVC.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{4F75B55C-F9F3-4BE2-847C-B04BCACFB28D}|WebAppMVC.csproj|e:\\univalle\\semestre4\\programacion web 3\\wamvc\\webappmvc\\views\\detallepedido\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{4F75B55C-F9F3-4BE2-847C-B04BCACFB28D}|WebAppMVC.csproj|solutionrelative:views\\detallepedido\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -15,136 +54,8 @@
       "RelativeMoniker": "D:0:0:{4F75B55C-F9F3-4BE2-847C-B04BCACFB28D}|WebAppMVC.csproj|solutionrelative:views\\cliente\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4F75B55C-F9F3-4BE2-847C-B04BCACFB28D}|WebAppMVC.csproj|e:\\univalle\\semestre4\\programacion web 3\\wamvc\\webappmvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{4F75B55C-F9F3-4BE2-847C-B04BCACFB28D}|WebAppMVC.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4F75B55C-F9F3-4BE2-847C-B04BCACFB28D}|WebAppMVC.csproj|e:\\univalle\\semestre4\\programacion web 3\\wamvc\\webappmvc\\views\\pedido\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{4F75B55C-F9F3-4BE2-847C-B04BCACFB28D}|WebAppMVC.csproj|solutionrelative:views\\pedido\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4F75B55C-F9F3-4BE2-847C-B04BCACFB28D}|WebAppMVC.csproj|e:\\univalle\\semestre4\\programacion web 3\\wamvc\\webappmvc\\views\\producto\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{4F75B55C-F9F3-4BE2-847C-B04BCACFB28D}|WebAppMVC.csproj|solutionrelative:views\\producto\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4F75B55C-F9F3-4BE2-847C-B04BCACFB28D}|WebAppMVC.csproj|e:\\univalle\\semestre4\\programacion web 3\\wamvc\\webappmvc\\views\\pedido\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{4F75B55C-F9F3-4BE2-847C-B04BCACFB28D}|WebAppMVC.csproj|solutionrelative:views\\pedido\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4F75B55C-F9F3-4BE2-847C-B04BCACFB28D}|WebAppMVC.csproj|e:\\univalle\\semestre4\\programacion web 3\\wamvc\\webappmvc\\models\\pedidomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4F75B55C-F9F3-4BE2-847C-B04BCACFB28D}|WebAppMVC.csproj|solutionrelative:models\\pedidomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4F75B55C-F9F3-4BE2-847C-B04BCACFB28D}|WebAppMVC.csproj|e:\\univalle\\semestre4\\programacion web 3\\wamvc\\webappmvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{4F75B55C-F9F3-4BE2-847C-B04BCACFB28D}|WebAppMVC.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4F75B55C-F9F3-4BE2-847C-B04BCACFB28D}|WebAppMVC.csproj|e:\\univalle\\semestre4\\programacion web 3\\wamvc\\webappmvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{4F75B55C-F9F3-4BE2-847C-B04BCACFB28D}|WebAppMVC.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4F75B55C-F9F3-4BE2-847C-B04BCACFB28D}|WebAppMVC.csproj|e:\\univalle\\semestre4\\programacion web 3\\wamvc\\webappmvc\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4F75B55C-F9F3-4BE2-847C-B04BCACFB28D}|WebAppMVC.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4F75B55C-F9F3-4BE2-847C-B04BCACFB28D}|WebAppMVC.csproj|e:\\univalle\\semestre4\\programacion web 3\\wamvc\\webappmvc\\migrations\\20250911043234_updatemodels3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4F75B55C-F9F3-4BE2-847C-B04BCACFB28D}|WebAppMVC.csproj|solutionrelative:migrations\\20250911043234_updatemodels3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4F75B55C-F9F3-4BE2-847C-B04BCACFB28D}|WebAppMVC.csproj|e:\\univalle\\semestre4\\programacion web 3\\wamvc\\webappmvc\\migrations\\20250911024010_updatemodels2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4F75B55C-F9F3-4BE2-847C-B04BCACFB28D}|WebAppMVC.csproj|solutionrelative:migrations\\20250911024010_updatemodels2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4F75B55C-F9F3-4BE2-847C-B04BCACFB28D}|WebAppMVC.csproj|e:\\univalle\\semestre4\\programacion web 3\\wamvc\\webappmvc\\migrations\\20250910010022_updatemodels1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4F75B55C-F9F3-4BE2-847C-B04BCACFB28D}|WebAppMVC.csproj|solutionrelative:migrations\\20250910010022_updatemodels1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4F75B55C-F9F3-4BE2-847C-B04BCACFB28D}|WebAppMVC.csproj|e:\\univalle\\semestre4\\programacion web 3\\wamvc\\webappmvc\\migrations\\20250909233236_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4F75B55C-F9F3-4BE2-847C-B04BCACFB28D}|WebAppMVC.csproj|solutionrelative:migrations\\20250909233236_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4F75B55C-F9F3-4BE2-847C-B04BCACFB28D}|WebAppMVC.csproj|e:\\univalle\\semestre4\\programacion web 3\\wamvc\\webappmvc\\data\\artesaniasdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4F75B55C-F9F3-4BE2-847C-B04BCACFB28D}|WebAppMVC.csproj|solutionrelative:data\\artesaniasdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4F75B55C-F9F3-4BE2-847C-B04BCACFB28D}|WebAppMVC.csproj|e:\\univalle\\semestre4\\programacion web 3\\wamvc\\webappmvc\\controllers\\detallepedidocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4F75B55C-F9F3-4BE2-847C-B04BCACFB28D}|WebAppMVC.csproj|solutionrelative:controllers\\detallepedidocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4F75B55C-F9F3-4BE2-847C-B04BCACFB28D}|WebAppMVC.csproj|e:\\univalle\\semestre4\\programacion web 3\\wamvc\\webappmvc\\models\\clientemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4F75B55C-F9F3-4BE2-847C-B04BCACFB28D}|WebAppMVC.csproj|solutionrelative:models\\clientemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4F75B55C-F9F3-4BE2-847C-B04BCACFB28D}|WebAppMVC.csproj|e:\\univalle\\semestre4\\programacion web 3\\wamvc\\webappmvc\\views\\cliente\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{4F75B55C-F9F3-4BE2-847C-B04BCACFB28D}|WebAppMVC.csproj|solutionrelative:views\\cliente\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4F75B55C-F9F3-4BE2-847C-B04BCACFB28D}|WebAppMVC.csproj|e:\\univalle\\semestre4\\programacion web 3\\wamvc\\webappmvc\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{4F75B55C-F9F3-4BE2-847C-B04BCACFB28D}|WebAppMVC.csproj|solutionrelative:views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4F75B55C-F9F3-4BE2-847C-B04BCACFB28D}|WebAppMVC.csproj|e:\\univalle\\semestre4\\programacion web 3\\wamvc\\webappmvc\\models\\detallepedidomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4F75B55C-F9F3-4BE2-847C-B04BCACFB28D}|WebAppMVC.csproj|solutionrelative:models\\detallepedidomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4F75B55C-F9F3-4BE2-847C-B04BCACFB28D}|WebAppMVC.csproj|e:\\univalle\\semestre4\\programacion web 3\\wamvc\\webappmvc\\controllers\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4F75B55C-F9F3-4BE2-847C-B04BCACFB28D}|WebAppMVC.csproj|solutionrelative:controllers\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4F75B55C-F9F3-4BE2-847C-B04BCACFB28D}|WebAppMVC.csproj|e:\\univalle\\semestre4\\programacion web 3\\wamvc\\webappmvc\\controllers\\pedidocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4F75B55C-F9F3-4BE2-847C-B04BCACFB28D}|WebAppMVC.csproj|solutionrelative:controllers\\pedidocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{4F75B55C-F9F3-4BE2-847C-B04BCACFB28D}|WebAppMVC.csproj|e:\\univalle\\semestre4\\programacion web 3\\wamvc\\webappmvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4F75B55C-F9F3-4BE2-847C-B04BCACFB28D}|WebAppMVC.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4F75B55C-F9F3-4BE2-847C-B04BCACFB28D}|WebAppMVC.csproj|e:\\univalle\\semestre4\\programacion web 3\\wamvc\\webappmvc\\models\\productomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4F75B55C-F9F3-4BE2-847C-B04BCACFB28D}|WebAppMVC.csproj|solutionrelative:models\\productomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Univalle\\Semestre4\\Programacion Web 3\\WAMVC\\WebAppMVC\\Migrations\\20250911023608_updateModels2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20250911023608_updateModels2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4F75B55C-F9F3-4BE2-847C-B04BCACFB28D}|WebAppMVC.csproj|e:\\univalle\\semestre4\\programacion web 3\\wamvc\\webappmvc\\views\\detallepedido\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{4F75B55C-F9F3-4BE2-847C-B04BCACFB28D}|WebAppMVC.csproj|solutionrelative:views\\detallepedido\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4F75B55C-F9F3-4BE2-847C-B04BCACFB28D}|WebAppMVC.csproj|e:\\univalle\\semestre4\\programacion web 3\\wamvc\\webappmvc\\views\\producto\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{4F75B55C-F9F3-4BE2-847C-B04BCACFB28D}|WebAppMVC.csproj|solutionrelative:views\\producto\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4F75B55C-F9F3-4BE2-847C-B04BCACFB28D}|WebAppMVC.csproj|e:\\univalle\\semestre4\\programacion web 3\\wamvc\\webappmvc\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4F75B55C-F9F3-4BE2-847C-B04BCACFB28D}|WebAppMVC.csproj|solutionrelative:controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4F75B55C-F9F3-4BE2-847C-B04BCACFB28D}|WebAppMVC.csproj|e:\\univalle\\semestre4\\programacion web 3\\wamvc\\webappmvc\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{4F75B55C-F9F3-4BE2-847C-B04BCACFB28D}|WebAppMVC.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4F75B55C-F9F3-4BE2-847C-B04BCACFB28D}|WebAppMVC.csproj|e:\\univalle\\semestre4\\programacion web 3\\wamvc\\webappmvc\\migrations\\artesaniasdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4F75B55C-F9F3-4BE2-847C-B04BCACFB28D}|WebAppMVC.csproj|solutionrelative:migrations\\artesaniasdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Univalle\\Semestre4\\Programacion Web 3\\WAMVC\\WebAppMVC\\Migrations\\20250909230517_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20250909230517_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4F75B55C-F9F3-4BE2-847C-B04BCACFB28D}|WebAppMVC.csproj|e:\\univalle\\semestre4\\programacion web 3\\wamvc\\webappmvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4F75B55C-F9F3-4BE2-847C-B04BCACFB28D}|WebAppMVC.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4F75B55C-F9F3-4BE2-847C-B04BCACFB28D}|WebAppMVC.csproj|e:\\univalle\\semestre4\\programacion web 3\\wamvc\\webappmvc\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{4F75B55C-F9F3-4BE2-847C-B04BCACFB28D}|WebAppMVC.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4F75B55C-F9F3-4BE2-847C-B04BCACFB28D}|WebAppMVC.csproj|e:\\univalle\\semestre4\\programacion web 3\\wamvc\\webappmvc\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{4F75B55C-F9F3-4BE2-847C-B04BCACFB28D}|WebAppMVC.csproj|solutionrelative:views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4F75B55C-F9F3-4BE2-847C-B04BCACFB28D}|WebAppMVC.csproj|e:\\univalle\\semestre4\\programacion web 3\\wamvc\\webappmvc\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{4F75B55C-F9F3-4BE2-847C-B04BCACFB28D}|WebAppMVC.csproj|solutionrelative:views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -159,14 +70,40 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "E:\\Univalle\\Semestre4\\Programacion Web 3\\WAMVC\\WebAppMVC\\Views\\DetallePedido\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\DetallePedido\\Index.cshtml",
-              "ToolTip": "E:\\Univalle\\Semestre4\\Programacion Web 3\\WAMVC\\WebAppMVC\\Views\\DetallePedido\\Index.cshtml",
-              "RelativeToolTip": "Views\\DetallePedido\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAF8AAAAgAAAAAAAAAA==",
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "E:\\Univalle\\Semestre4\\Programacion Web 3\\WAMVC\\WebAppMVC\\Views\\Cliente\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Cliente\\Edit.cshtml",
+              "ToolTip": "E:\\Univalle\\Semestre4\\Programacion Web 3\\WAMVC\\WebAppMVC\\Views\\Cliente\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Cliente\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-12T00:24:33.582Z",
+              "WhenOpened": "2025-09-16T21:18:02.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "E:\\Univalle\\Semestre4\\Programacion Web 3\\WAMVC\\WebAppMVC\\Views\\DetallePedido\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\DetallePedido\\Edit.cshtml",
+              "ToolTip": "E:\\Univalle\\Semestre4\\Programacion Web 3\\WAMVC\\WebAppMVC\\Views\\DetallePedido\\Edit.cshtml",
+              "RelativeToolTip": "Views\\DetallePedido\\Edit.cshtml",
+              "ViewState": "AgIAACgAAAAAAAAAAAAQwEYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-16T21:15:04.556Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "E:\\Univalle\\Semestre4\\Programacion Web 3\\WAMVC\\WebAppMVC\\Views\\Pedido\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Pedido\\Create.cshtml",
+              "ToolTip": "E:\\Univalle\\Semestre4\\Programacion Web 3\\WAMVC\\WebAppMVC\\Views\\Pedido\\Create.cshtml",
+              "RelativeToolTip": "Views\\Pedido\\Create.cshtml",
+              "ViewState": "AgIAACcAAAAAAAAAAAAQwEUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-16T21:14:12.212Z",
               "EditorCaption": ""
             },
             {
@@ -177,65 +114,64 @@
               "RelativeDocumentMoniker": "Views\\Pedido\\Edit.cshtml",
               "ToolTip": "E:\\Univalle\\Semestre4\\Programacion Web 3\\WAMVC\\WebAppMVC\\Views\\Pedido\\Edit.cshtml",
               "RelativeToolTip": "Views\\Pedido\\Edit.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAA/AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-11T23:51:07.57Z",
+              "WhenOpened": "2025-09-16T21:13:44.963Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "E:\\Univalle\\Semestre4\\Programacion Web 3\\WAMVC\\WebAppMVC\\Views\\Pedido\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Pedido\\Index.cshtml",
-              "ToolTip": "E:\\Univalle\\Semestre4\\Programacion Web 3\\WAMVC\\WebAppMVC\\Views\\Pedido\\Index.cshtml",
-              "RelativeToolTip": "Views\\Pedido\\Index.cshtml",
-              "ViewState": "AgIAAEsAAAAAAAAAAAAAAGcAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 6,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "E:\\Univalle\\Semestre4\\Programacion Web 3\\WAMVC\\WebAppMVC\\Views\\Producto\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Producto\\Edit.cshtml",
+              "ToolTip": "E:\\Univalle\\Semestre4\\Programacion Web 3\\WAMVC\\WebAppMVC\\Views\\Producto\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Producto\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-11T23:23:16.956Z",
+              "WhenOpened": "2025-09-16T21:12:30.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "apps.json",
+              "DocumentMoniker": "C:\\Users\\User one\\AppData\\Local\\github-copilot\\apps.json",
+              "ToolTip": "C:\\Users\\User one\\AppData\\Local\\github-copilot\\apps.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-16T20:55:31.982Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "E:\\Univalle\\Semestre4\\Programacion Web 3\\WAMVC\\WebAppMVC\\Views\\Producto\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Producto\\Create.cshtml",
+              "ToolTip": "E:\\Univalle\\Semestre4\\Programacion Web 3\\WAMVC\\WebAppMVC\\Views\\Producto\\Create.cshtml",
+              "RelativeToolTip": "Views\\Producto\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-16T20:46:08.109Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "E:\\Univalle\\Semestre4\\Programacion Web 3\\WAMVC\\WebAppMVC\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
-              "ToolTip": "E:\\Univalle\\Semestre4\\Programacion Web 3\\WAMVC\\WebAppMVC\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "E:\\Univalle\\Semestre4\\Programacion Web 3\\WAMVC\\WebAppMVC\\Views\\DetallePedido\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\DetallePedido\\Create.cshtml",
+              "ToolTip": "E:\\Univalle\\Semestre4\\Programacion Web 3\\WAMVC\\WebAppMVC\\Views\\DetallePedido\\Create.cshtml",
+              "RelativeToolTip": "Views\\DetallePedido\\Create.cshtml",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAAEUAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-11T04:49:37.807Z",
+              "WhenOpened": "2025-09-16T20:46:02.725Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "20250911043234_UpdateModels3.cs",
-              "DocumentMoniker": "E:\\Univalle\\Semestre4\\Programacion Web 3\\WAMVC\\WebAppMVC\\Migrations\\20250911043234_UpdateModels3.cs",
-              "RelativeDocumentMoniker": "Migrations\\20250911043234_UpdateModels3.cs",
-              "ToolTip": "E:\\Univalle\\Semestre4\\Programacion Web 3\\WAMVC\\WebAppMVC\\Migrations\\20250911043234_UpdateModels3.cs",
-              "RelativeToolTip": "Migrations\\20250911043234_UpdateModels3.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-11T04:32:34.69Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "E:\\Univalle\\Semestre4\\Programacion Web 3\\WAMVC\\WebAppMVC\\Views\\Cliente\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Cliente\\Index.cshtml",
-              "ToolTip": "E:\\Univalle\\Semestre4\\Programacion Web 3\\WAMVC\\WebAppMVC\\Views\\Cliente\\Index.cshtml",
-              "RelativeToolTip": "Views\\Cliente\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADQAAABLAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-11T04:19:11.865Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 1,
               "Title": "Create.cshtml",
               "DocumentMoniker": "E:\\Univalle\\Semestre4\\Programacion Web 3\\WAMVC\\WebAppMVC\\Views\\Cliente\\Create.cshtml",
               "RelativeDocumentMoniker": "Views\\Cliente\\Create.cshtml",
@@ -243,189 +179,8 @@
               "RelativeToolTip": "Views\\Cliente\\Create.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-11T04:19:07.751Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "_Layout.cshtml.css",
-              "DocumentMoniker": "E:\\Univalle\\Semestre4\\Programacion Web 3\\WAMVC\\WebAppMVC\\Views\\Shared\\_Layout.cshtml.css",
-              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml.css",
-              "ToolTip": "E:\\Univalle\\Semestre4\\Programacion Web 3\\WAMVC\\WebAppMVC\\Views\\Shared\\_Layout.cshtml.css",
-              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml.css",
-              "ViewState": "AgIAAFgAAAAAAAAAAAAAAFEAAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-09-11T03:57:45.558Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "20250911024010_UpdateModels2.cs",
-              "DocumentMoniker": "E:\\Univalle\\Semestre4\\Programacion Web 3\\WAMVC\\WebAppMVC\\Migrations\\20250911024010_UpdateModels2.cs",
-              "RelativeDocumentMoniker": "Migrations\\20250911024010_UpdateModels2.cs",
-              "ToolTip": "E:\\Univalle\\Semestre4\\Programacion Web 3\\WAMVC\\WebAppMVC\\Migrations\\20250911024010_UpdateModels2.cs",
-              "RelativeToolTip": "Migrations\\20250911024010_UpdateModels2.cs",
-              "ViewState": "AgIAACQAAAAAAAAAAAAAAC8AAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-11T02:40:11.017Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "20250911023608_updateModels2.cs",
-              "DocumentMoniker": "E:\\Univalle\\Semestre4\\Programacion Web 3\\WAMVC\\WebAppMVC\\Migrations\\20250911023608_updateModels2.cs",
-              "RelativeDocumentMoniker": "Migrations\\20250911023608_updateModels2.cs",
-              "ToolTip": "E:\\Univalle\\Semestre4\\Programacion Web 3\\WAMVC\\WebAppMVC\\Migrations\\20250911023608_updateModels2.cs",
-              "RelativeToolTip": "Migrations\\20250911023608_updateModels2.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-11T02:36:08.976Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "E:\\Univalle\\Semestre4\\Programacion Web 3\\WAMVC\\WebAppMVC\\Views\\DetallePedido\\Create.cshtml",
-              "RelativeDocumentMoniker": "Views\\DetallePedido\\Create.cshtml",
-              "ToolTip": "E:\\Univalle\\Semestre4\\Programacion Web 3\\WAMVC\\WebAppMVC\\Views\\DetallePedido\\Create.cshtml",
-              "RelativeToolTip": "Views\\DetallePedido\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-11T02:33:25.679Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "E:\\Univalle\\Semestre4\\Programacion Web 3\\WAMVC\\WebAppMVC\\Views\\Pedido\\Create.cshtml",
-              "RelativeDocumentMoniker": "Views\\Pedido\\Create.cshtml",
-              "ToolTip": "E:\\Univalle\\Semestre4\\Programacion Web 3\\WAMVC\\WebAppMVC\\Views\\Pedido\\Create.cshtml",
-              "RelativeToolTip": "Views\\Pedido\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-10T01:11:17.016Z",
+              "WhenOpened": "2025-09-16T20:43:42.615Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "DetallePedidoController.cs",
-              "DocumentMoniker": "E:\\Univalle\\Semestre4\\Programacion Web 3\\WAMVC\\WebAppMVC\\Controllers\\DetallePedidoController.cs",
-              "RelativeDocumentMoniker": "Controllers\\DetallePedidoController.cs",
-              "ToolTip": "E:\\Univalle\\Semestre4\\Programacion Web 3\\WAMVC\\WebAppMVC\\Controllers\\DetallePedidoController.cs",
-              "RelativeToolTip": "Controllers\\DetallePedidoController.cs",
-              "ViewState": "AgIAAHEAAAAAAAAAAAAAAH0AAABVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-10T01:04:15.163Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "PedidoController.cs",
-              "DocumentMoniker": "E:\\Univalle\\Semestre4\\Programacion Web 3\\WAMVC\\WebAppMVC\\Controllers\\PedidoController.cs",
-              "RelativeDocumentMoniker": "Controllers\\PedidoController.cs",
-              "ToolTip": "E:\\Univalle\\Semestre4\\Programacion Web 3\\WAMVC\\WebAppMVC\\Controllers\\PedidoController.cs",
-              "RelativeToolTip": "Controllers\\PedidoController.cs",
-              "ViewState": "AgIAAGoAAAAAAAAAAAAwwHgAAABTAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-10T01:03:33.911Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "ClienteController.cs",
-              "DocumentMoniker": "E:\\Univalle\\Semestre4\\Programacion Web 3\\WAMVC\\WebAppMVC\\Controllers\\ClienteController.cs",
-              "RelativeDocumentMoniker": "Controllers\\ClienteController.cs",
-              "ToolTip": "E:\\Univalle\\Semestre4\\Programacion Web 3\\WAMVC\\WebAppMVC\\Controllers\\ClienteController.cs",
-              "RelativeToolTip": "Controllers\\ClienteController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-10T01:02:49.394Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "20250910010022_UpdateModels1.cs",
-              "DocumentMoniker": "E:\\Univalle\\Semestre4\\Programacion Web 3\\WAMVC\\WebAppMVC\\Migrations\\20250910010022_UpdateModels1.cs",
-              "RelativeDocumentMoniker": "Migrations\\20250910010022_UpdateModels1.cs",
-              "ToolTip": "E:\\Univalle\\Semestre4\\Programacion Web 3\\WAMVC\\WebAppMVC\\Migrations\\20250910010022_UpdateModels1.cs",
-              "RelativeToolTip": "Migrations\\20250910010022_UpdateModels1.cs",
-              "ViewState": "AgIAAHgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-10T01:00:22.177Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 30,
-              "Title": "ArtesaniasDBContextModelSnapshot.cs",
-              "DocumentMoniker": "E:\\Univalle\\Semestre4\\Programacion Web 3\\WAMVC\\WebAppMVC\\Migrations\\ArtesaniasDBContextModelSnapshot.cs",
-              "RelativeDocumentMoniker": "Migrations\\ArtesaniasDBContextModelSnapshot.cs",
-              "ToolTip": "E:\\Univalle\\Semestre4\\Programacion Web 3\\WAMVC\\WebAppMVC\\Migrations\\ArtesaniasDBContextModelSnapshot.cs",
-              "RelativeToolTip": "Migrations\\ArtesaniasDBContextModelSnapshot.cs",
-              "ViewState": "AgIAAGUAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-09T23:33:31.834Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "20250909233236_InitialCreate.cs",
-              "DocumentMoniker": "E:\\Univalle\\Semestre4\\Programacion Web 3\\WAMVC\\WebAppMVC\\Migrations\\20250909233236_InitialCreate.cs",
-              "RelativeDocumentMoniker": "Migrations\\20250909233236_InitialCreate.cs",
-              "ToolTip": "E:\\Univalle\\Semestre4\\Programacion Web 3\\WAMVC\\WebAppMVC\\Migrations\\20250909233236_InitialCreate.cs",
-              "RelativeToolTip": "Migrations\\20250909233236_InitialCreate.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAAB4AAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-09T23:32:36.323Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 31,
-              "Title": "20250909230517_InitialCreate.cs",
-              "DocumentMoniker": "E:\\Univalle\\Semestre4\\Programacion Web 3\\WAMVC\\WebAppMVC\\Migrations\\20250909230517_InitialCreate.cs",
-              "RelativeDocumentMoniker": "Migrations\\20250909230517_InitialCreate.cs",
-              "ToolTip": "E:\\Univalle\\Semestre4\\Programacion Web 3\\WAMVC\\WebAppMVC\\Migrations\\20250909230517_InitialCreate.cs",
-              "RelativeToolTip": "Migrations\\20250909230517_InitialCreate.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-09T23:05:18.026Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "E:\\Univalle\\Semestre4\\Programacion Web 3\\WAMVC\\WebAppMVC\\Views\\Producto\\Create.cshtml",
-              "RelativeDocumentMoniker": "Views\\Producto\\Create.cshtml",
-              "ToolTip": "E:\\Univalle\\Semestre4\\Programacion Web 3\\WAMVC\\WebAppMVC\\Views\\Producto\\Create.cshtml",
-              "RelativeToolTip": "Views\\Producto\\Create.cshtml",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-09T03:32:02.083Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "E:\\Univalle\\Semestre4\\Programacion Web 3\\WAMVC\\WebAppMVC\\Views\\Producto\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Producto\\Index.cshtml",
-              "ToolTip": "E:\\Univalle\\Semestre4\\Programacion Web 3\\WAMVC\\WebAppMVC\\Views\\Producto\\Index.cshtml",
-              "RelativeToolTip": "Views\\Producto\\Index.cshtml",
-              "ViewState": "AgIAACcAAAAAAAAAAAAAAD8AAABCAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-09T02:20:49.248Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "ProductoController.cs",
-              "DocumentMoniker": "E:\\Univalle\\Semestre4\\Programacion Web 3\\WAMVC\\WebAppMVC\\Controllers\\ProductoController.cs",
-              "RelativeDocumentMoniker": "Controllers\\ProductoController.cs",
-              "ToolTip": "E:\\Univalle\\Semestre4\\Programacion Web 3\\WAMVC\\WebAppMVC\\Controllers\\ProductoController.cs",
-              "RelativeToolTip": "Controllers\\ProductoController.cs",
-              "ViewState": "AgIAAC0AAAAAAAAAAAAAACMAAAA4AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-09T02:18:17.738Z"
             },
             {
               "$type": "Document",
@@ -435,63 +190,49 @@
               "RelativeDocumentMoniker": "appsettings.json",
               "ToolTip": "E:\\Univalle\\Semestre4\\Programacion Web 3\\WAMVC\\WebAppMVC\\appsettings.json",
               "RelativeToolTip": "appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAASAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-09-03T00:38:18.687Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-16T20:39:16.888Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "PedidoModel.cs",
-              "DocumentMoniker": "E:\\Univalle\\Semestre4\\Programacion Web 3\\WAMVC\\WebAppMVC\\Models\\PedidoModel.cs",
-              "RelativeDocumentMoniker": "Models\\PedidoModel.cs",
-              "ToolTip": "E:\\Univalle\\Semestre4\\Programacion Web 3\\WAMVC\\WebAppMVC\\Models\\PedidoModel.cs",
-              "RelativeToolTip": "Models\\PedidoModel.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBoAAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-04T23:57:17.977Z",
-              "EditorCaption": ""
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\Univalle\\Semestre4\\Programacion Web 3\\WAMVC\\WebAppMVC\\Views\\DetallePedido\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\DetallePedido\\Index.cshtml",
+              "ToolTip": "E:\\Univalle\\Semestre4\\Programacion Web 3\\WAMVC\\WebAppMVC\\Views\\DetallePedido\\Index.cshtml",
+              "RelativeToolTip": "Views\\DetallePedido\\Index.cshtml",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-16T20:22:13.562Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "ProductoModel.cs",
-              "DocumentMoniker": "E:\\Univalle\\Semestre4\\Programacion Web 3\\WAMVC\\WebAppMVC\\Models\\ProductoModel.cs",
-              "RelativeDocumentMoniker": "Models\\ProductoModel.cs",
-              "ToolTip": "E:\\Univalle\\Semestre4\\Programacion Web 3\\WAMVC\\WebAppMVC\\Models\\ProductoModel.cs",
-              "RelativeToolTip": "Models\\ProductoModel.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAABkAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-04T23:14:39.556Z"
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\Univalle\\Semestre4\\Programacion Web 3\\WAMVC\\WebAppMVC\\Views\\Cliente\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Cliente\\Index.cshtml",
+              "ToolTip": "E:\\Univalle\\Semestre4\\Programacion Web 3\\WAMVC\\WebAppMVC\\Views\\Cliente\\Index.cshtml",
+              "RelativeToolTip": "Views\\Cliente\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-16T20:22:08.566Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "ArtesaniasDBContext.cs",
-              "DocumentMoniker": "E:\\Univalle\\Semestre4\\Programacion Web 3\\WAMVC\\WebAppMVC\\Data\\ArtesaniasDBContext.cs",
-              "RelativeDocumentMoniker": "Data\\ArtesaniasDBContext.cs",
-              "ToolTip": "E:\\Univalle\\Semestre4\\Programacion Web 3\\WAMVC\\WebAppMVC\\Data\\ArtesaniasDBContext.cs",
-              "RelativeToolTip": "Data\\ArtesaniasDBContext.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-05T00:22:01.406Z"
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\Univalle\\Semestre4\\Programacion Web 3\\WAMVC\\WebAppMVC\\Views\\Pedido\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Pedido\\Index.cshtml",
+              "ToolTip": "E:\\Univalle\\Semestre4\\Programacion Web 3\\WAMVC\\WebAppMVC\\Views\\Pedido\\Index.cshtml",
+              "RelativeToolTip": "Views\\Pedido\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-16T20:22:05.566Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "ClienteModel.cs",
-              "DocumentMoniker": "E:\\Univalle\\Semestre4\\Programacion Web 3\\WAMVC\\WebAppMVC\\Models\\ClienteModel.cs",
-              "RelativeDocumentMoniker": "Models\\ClienteModel.cs",
-              "ToolTip": "E:\\Univalle\\Semestre4\\Programacion Web 3\\WAMVC\\WebAppMVC\\Models\\ClienteModel.cs",
-              "RelativeToolTip": "Models\\ClienteModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABDAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-04T23:55:38.74Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 13,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\Univalle\\Semestre4\\Programacion Web 3\\WAMVC\\WebAppMVC\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -500,103 +241,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-03T00:38:23.475Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "ErrorViewModel.cs",
-              "DocumentMoniker": "E:\\Univalle\\Semestre4\\Programacion Web 3\\WAMVC\\WebAppMVC\\Models\\ErrorViewModel.cs",
-              "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
-              "ToolTip": "E:\\Univalle\\Semestre4\\Programacion Web 3\\WAMVC\\WebAppMVC\\Models\\ErrorViewModel.cs",
-              "RelativeToolTip": "Models\\ErrorViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-02T23:54:12.391Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "DetallePedidoModel.cs",
-              "DocumentMoniker": "E:\\Univalle\\Semestre4\\Programacion Web 3\\WAMVC\\WebAppMVC\\Models\\DetallePedidoModel.cs",
-              "RelativeDocumentMoniker": "Models\\DetallePedidoModel.cs",
-              "ToolTip": "E:\\Univalle\\Semestre4\\Programacion Web 3\\WAMVC\\WebAppMVC\\Models\\DetallePedidoModel.cs",
-              "RelativeToolTip": "Models\\DetallePedidoModel.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAABAAAABVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-04T23:59:41.261Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 33,
-              "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "E:\\Univalle\\Semestre4\\Programacion Web 3\\WAMVC\\WebAppMVC\\Views\\_ViewStart.cshtml",
-              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
-              "ToolTip": "E:\\Univalle\\Semestre4\\Programacion Web 3\\WAMVC\\WebAppMVC\\Views\\_ViewStart.cshtml",
-              "RelativeToolTip": "Views\\_ViewStart.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-03T00:38:15.334Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "E:\\Univalle\\Semestre4\\Programacion Web 3\\WAMVC\\WebAppMVC\\Views\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
-              "ToolTip": "E:\\Univalle\\Semestre4\\Programacion Web 3\\WAMVC\\WebAppMVC\\Views\\_ViewImports.cshtml",
-              "RelativeToolTip": "Views\\_ViewImports.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-03T00:38:12.061Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 35,
-              "Title": "_ValidationScriptsPartial.cshtml",
-              "DocumentMoniker": "E:\\Univalle\\Semestre4\\Programacion Web 3\\WAMVC\\WebAppMVC\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "ToolTip": "E:\\Univalle\\Semestre4\\Programacion Web 3\\WAMVC\\WebAppMVC\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "RelativeToolTip": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-03T00:38:08.118Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 34,
-              "Title": "Error.cshtml",
-              "DocumentMoniker": "E:\\Univalle\\Semestre4\\Programacion Web 3\\WAMVC\\WebAppMVC\\Views\\Shared\\Error.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\Error.cshtml",
-              "ToolTip": "E:\\Univalle\\Semestre4\\Programacion Web 3\\WAMVC\\WebAppMVC\\Views\\Shared\\Error.cshtml",
-              "RelativeToolTip": "Views\\Shared\\Error.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-03T00:32:23.943Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 32,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "E:\\Univalle\\Semestre4\\Programacion Web 3\\WAMVC\\WebAppMVC\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
-              "ToolTip": "E:\\Univalle\\Semestre4\\Programacion Web 3\\WAMVC\\WebAppMVC\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-02T23:56:45.639Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "E:\\Univalle\\Semestre4\\Programacion Web 3\\WAMVC\\WebAppMVC\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "E:\\Univalle\\Semestre4\\Programacion Web 3\\WAMVC\\WebAppMVC\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAACcAAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-02T23:53:53.855Z",
-              "EditorCaption": ""
             }
           ]
         }
