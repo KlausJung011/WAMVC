@@ -59,7 +59,7 @@ namespace WebAppMVC.Controllers
                 // Redirigir según el rol
                 if (usuario.Rol == "Admin")
                 {
-                    return RedirectToAction("Index", "Admin");
+                    return RedirectToAction("Index", "Cliente");
                 }
 
                 return RedirectToAction("Index", "Home");
