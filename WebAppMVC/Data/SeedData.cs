@@ -1,10 +1,10 @@
-﻿using AutenticacionASPNET.Models;
+﻿using WebAppMVC.Models;
 
-namespace AutenticacionASPNET.Data
+namespace WebAppMVC.Data
 {
     public static class SeedData
     {
-        public static void Initialize(ApplicationDbContext context)
+        public static void Initialize(ArtesaniasDBContext context)
         {
             context.Database.EnsureCreated();
 
@@ -15,9 +15,9 @@ namespace AutenticacionASPNET.Data
             }
 
             // Crear usuarios de prueba
-            var usuarios = new Usuario[]
+            var usuarios = new UsuarioModel[]
             {
-                new Usuario
+                new UsuarioModel
                 {
                     Email = "admin@test.com",
                     Password = BCrypt.Net.BCrypt.HashPassword("Admin123!"),
@@ -26,7 +26,7 @@ namespace AutenticacionASPNET.Data
                     Rol = "Admin",
                     Activo = true
                 },
-                new Usuario
+                new UsuarioModel
                 {
                     Email = "menor@test.com",
                     Password = BCrypt.Net.BCrypt.HashPassword("Menor123!"),
@@ -35,7 +35,7 @@ namespace AutenticacionASPNET.Data
                     Rol = "Usuario",
                     Activo = true
                 },
-                new Usuario
+                new UsuarioModel
                 {
                     Email = "mayor@test.com",
                     Password = BCrypt.Net.BCrypt.HashPassword("Mayor123!"),
@@ -50,7 +50,7 @@ namespace AutenticacionASPNET.Data
             context.SaveChanges();
 
             // Crear productos de prueba
-            if (!context.Productos.Any())
+            /*if (!context.Productos.Any())
             {
                 var productos = new Producto[]
                 {
@@ -98,7 +98,7 @@ namespace AutenticacionASPNET.Data
 
                 context.Productos.AddRange(productos);
                 context.SaveChanges();
-            }
+            }*/
         }
     }
 }

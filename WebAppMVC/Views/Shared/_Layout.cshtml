@@ -42,19 +42,19 @@
                         </li>
                         <li class="nav-item">
                             <a class="nav-link modern-nav-link" asp-area="" asp-controller="Cliente" asp-action="Index">
-                                <i class="fas fa-user-plus me-1"></i>
+                                <i class="fas fa-users me-1"></i>
                                 <span>Clientes</span>
                             </a>
                         </li>
                         <li class="nav-item">
                             <a class="nav-link modern-nav-link" asp-area="" asp-controller="Pedido" asp-action="Index">
-                                <i class="fas fa-user-plus me-1"></i>
+                                <i class="fas fa-truck me-1"></i>
                                 <span>Pedidos</span>
                             </a>
                         </li>
                         <li class="nav-item">
                             <a class="nav-link modern-nav-link" asp-area="" asp-controller="DetallePedido" asp-action="Index">
-                                <i class="fas fa-user-plus me-1"></i>
+                                <i class="fas fa-cart-shopping me-1"></i>
                                 <span>Detalles</span>
                             </a>
                         </li>
@@ -64,6 +64,35 @@
                                 <span>Privacidad</span>
                             </a>
                         </li>
+                        @if (User.Identity.IsAuthenticated)
+                        {
+                            <li class="nav-item">
+                                <span class="navbar-text me-3 modern-nav-link">
+                                    Hola, @User.FindFirst("NombreCompleto")?.Value
+                                    <span class="badge bg-primary">@User.FindFirst(System.Security.Claims.ClaimTypes.Role)?.Value</span>
+                                </span>
+                            </li>
+                            <li class="nav-item">
+                                <form method="post" asp-controller="Account" asp-action="Logout" class="d-inline">
+                                    <button type="submit" class="btn btn-link nav-link modern-nav-link">Cerrar sesión</button>
+                                </form>
+                            </li>
+                        }
+                        else
+                        {
+                            <li class="nav-item">
+                                <a class="nav-link modern-nav-link" asp-controller="Account" asp-action="Login">
+                                    <i class="fas fa-right-to-bracket me-1"></i>
+                                    <span>Iniciar sesión</span>
+                                </a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link modern-nav-link" asp-controller="Account" asp-action="Register">
+                                    <i class="fas fa-user-plus me-1"></i>
+                                    <span>Registrarse</span>
+                                </a>
+                            </li>
+                        }
                     </ul>
                 </div>
             </div>
