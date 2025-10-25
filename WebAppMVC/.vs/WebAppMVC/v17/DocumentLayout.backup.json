@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "E:\\Univalle\\Semestre4\\Programacion Web 3\\WAMVC\\WebAppMVC\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4F75B55C-F9F3-4BE2-847C-B04BCACFB28D}|WebAppMVC.csproj|e:\\univalle\\semestre4\\programacion web 3\\wamvc\\webappmvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{4F75B55C-F9F3-4BE2-847C-B04BCACFB28D}|WebAppMVC.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{4F75B55C-F9F3-4BE2-847C-B04BCACFB28D}|WebAppMVC.csproj|e:\\univalle\\semestre4\\programacion web 3\\wamvc\\webappmvc\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F75B55C-F9F3-4BE2-847C-B04BCACFB28D}|WebAppMVC.csproj|solutionrelative:controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4F75B55C-F9F3-4BE2-847C-B04BCACFB28D}|WebAppMVC.csproj|e:\\univalle\\semestre4\\programacion web 3\\wamvc\\webappmvc\\models\\detallepedidomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4F75B55C-F9F3-4BE2-847C-B04BCACFB28D}|WebAppMVC.csproj|solutionrelative:models\\detallepedidomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4F75B55C-F9F3-4BE2-847C-B04BCACFB28D}|WebAppMVC.csproj|e:\\univalle\\semestre4\\programacion web 3\\wamvc\\webappmvc\\models\\usuariomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F75B55C-F9F3-4BE2-847C-B04BCACFB28D}|WebAppMVC.csproj|solutionrelative:models\\usuariomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4F75B55C-F9F3-4BE2-847C-B04BCACFB28D}|WebAppMVC.csproj|e:\\univalle\\semestre4\\programacion web 3\\wamvc\\webappmvc\\models\\clientemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -17,6 +17,14 @@
     {
       "AbsoluteMoniker": "D:0:0:{4F75B55C-F9F3-4BE2-847C-B04BCACFB28D}|WebAppMVC.csproj|e:\\univalle\\semestre4\\programacion web 3\\wamvc\\webappmvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4F75B55C-F9F3-4BE2-847C-B04BCACFB28D}|WebAppMVC.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F75B55C-F9F3-4BE2-847C-B04BCACFB28D}|WebAppMVC.csproj|e:\\univalle\\semestre4\\programacion web 3\\wamvc\\webappmvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4F75B55C-F9F3-4BE2-847C-B04BCACFB28D}|WebAppMVC.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F75B55C-F9F3-4BE2-847C-B04BCACFB28D}|WebAppMVC.csproj|e:\\univalle\\semestre4\\programacion web 3\\wamvc\\webappmvc\\models\\detallepedidomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F75B55C-F9F3-4BE2-847C-B04BCACFB28D}|WebAppMVC.csproj|solutionrelative:models\\detallepedidomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4F75B55C-F9F3-4BE2-847C-B04BCACFB28D}|WebAppMVC.csproj|e:\\univalle\\semestre4\\programacion web 3\\wamvc\\webappmvc\\models\\pedidomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -109,11 +117,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 159,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 1,
+              "Title": "UsuarioModel.cs",
+              "DocumentMoniker": "E:\\Univalle\\Semestre4\\Programacion Web 3\\WAMVC\\WebAppMVC\\Models\\UsuarioModel.cs",
+              "RelativeDocumentMoniker": "Models\\UsuarioModel.cs",
+              "ToolTip": "E:\\Univalle\\Semestre4\\Programacion Web 3\\WAMVC\\WebAppMVC\\Models\\UsuarioModel.cs",
+              "RelativeToolTip": "Models\\UsuarioModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-25T13:12:33.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "E:\\Univalle\\Semestre4\\Programacion Web 3\\WAMVC\\WebAppMVC\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AccountController.cs",
+              "ToolTip": "E:\\Univalle\\Semestre4\\Programacion Web 3\\WAMVC\\WebAppMVC\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Controllers\\AccountController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-25T13:10:00.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "Create.cshtml",
               "DocumentMoniker": "E:\\Univalle\\Semestre4\\Programacion Web 3\\WAMVC\\WebAppMVC\\Views\\Producto\\Create.cshtml",
               "RelativeDocumentMoniker": "Views\\Producto\\Create.cshtml",
@@ -121,11 +155,12 @@
               "RelativeToolTip": "Views\\Producto\\Create.cshtml",
               "ViewState": "AgIAACAAAAAAAAAAAAAYwEUAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-16T20:46:08.109Z"
+              "WhenOpened": "2025-09-16T20:46:08.109Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "PedidoModel.cs",
               "DocumentMoniker": "E:\\Univalle\\Semestre4\\Programacion Web 3\\WAMVC\\WebAppMVC\\Models\\PedidoModel.cs",
               "RelativeDocumentMoniker": "Models\\PedidoModel.cs",
@@ -133,19 +168,21 @@
               "RelativeToolTip": "Models\\PedidoModel.cs",
               "ViewState": "AgIAABEAAAAAAAAAAAAQwCwAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-17T00:16:05.685Z"
+              "WhenOpened": "2025-09-17T00:16:05.685Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 18,
               "Title": "ProductoController.cs",
               "DocumentMoniker": "E:\\Univalle\\Semestre4\\Programacion Web 3\\WAMVC\\WebAppMVC\\Controllers\\ProductoController.cs",
               "RelativeDocumentMoniker": "Controllers\\ProductoController.cs",
               "ToolTip": "E:\\Univalle\\Semestre4\\Programacion Web 3\\WAMVC\\WebAppMVC\\Controllers\\ProductoController.cs",
               "RelativeToolTip": "Controllers\\ProductoController.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAABQwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-17T00:34:49.128Z"
+              "WhenOpened": "2025-09-17T00:34:49.128Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -157,11 +194,12 @@
               "RelativeToolTip": "Models\\ClienteModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-17T00:15:20.068Z"
+              "WhenOpened": "2025-09-17T00:15:20.068Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "ProductoModel.cs",
               "DocumentMoniker": "E:\\Univalle\\Semestre4\\Programacion Web 3\\WAMVC\\WebAppMVC\\Models\\ProductoModel.cs",
               "RelativeDocumentMoniker": "Models\\ProductoModel.cs",
@@ -169,17 +207,18 @@
               "RelativeToolTip": "Models\\ProductoModel.cs",
               "ViewState": "AgIAAAUAAAAAAAAAAAAQwCIAAABCAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-17T00:34:52.313Z"
+              "WhenOpened": "2025-09-17T00:34:52.313Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "appsettings.json",
               "DocumentMoniker": "E:\\Univalle\\Semestre4\\Programacion Web 3\\WAMVC\\WebAppMVC\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "E:\\Univalle\\Semestre4\\Programacion Web 3\\WAMVC\\WebAppMVC\\appsettings.json*",
-              "RelativeToolTip": "appsettings.json*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAaAAAAAAAAAA==",
+              "ToolTip": "E:\\Univalle\\Semestre4\\Programacion Web 3\\WAMVC\\WebAppMVC\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-09-16T20:39:16.888Z",
               "EditorCaption": ""
@@ -192,13 +231,14 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "E:\\Univalle\\Semestre4\\Programacion Web 3\\WAMVC\\WebAppMVC\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-03T00:38:23.475Z"
+              "WhenOpened": "2025-09-03T00:38:23.475Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "DetallePedidoModel.cs",
               "DocumentMoniker": "E:\\Univalle\\Semestre4\\Programacion Web 3\\WAMVC\\WebAppMVC\\Models\\DetallePedidoModel.cs",
               "RelativeDocumentMoniker": "Models\\DetallePedidoModel.cs",
@@ -211,7 +251,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 14,
               "Title": "Index.cshtml",
               "DocumentMoniker": "E:\\Univalle\\Semestre4\\Programacion Web 3\\WAMVC\\WebAppMVC\\Views\\Producto\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Producto\\Index.cshtml",
@@ -219,35 +259,38 @@
               "RelativeToolTip": "Views\\Producto\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAFMAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-25T02:11:04.461Z"
+              "WhenOpened": "2025-09-25T02:11:04.461Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "Create.cshtml",
               "DocumentMoniker": "E:\\Univalle\\Semestre4\\Programacion Web 3\\WAMVC\\WebAppMVC\\Views\\DetallePedido\\Create.cshtml",
               "RelativeDocumentMoniker": "Views\\DetallePedido\\Create.cshtml",
               "ToolTip": "E:\\Univalle\\Semestre4\\Programacion Web 3\\WAMVC\\WebAppMVC\\Views\\DetallePedido\\Create.cshtml",
               "RelativeToolTip": "Views\\DetallePedido\\Create.cshtml",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAEUAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAIBJwEUAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-16T20:46:02.725Z"
+              "WhenOpened": "2025-09-16T20:46:02.725Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "E:\\Univalle\\Semestre4\\Programacion Web 3\\WAMVC\\WebAppMVC\\Views\\Pedido\\Edit.cshtml",
               "RelativeDocumentMoniker": "Views\\Pedido\\Edit.cshtml",
               "ToolTip": "E:\\Univalle\\Semestre4\\Programacion Web 3\\WAMVC\\WebAppMVC\\Views\\Pedido\\Edit.cshtml",
               "RelativeToolTip": "Views\\Pedido\\Edit.cshtml",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAACgAAABWAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwCgAAABWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-16T21:13:44.963Z"
+              "WhenOpened": "2025-09-16T21:13:44.963Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "Create.cshtml",
               "DocumentMoniker": "E:\\Univalle\\Semestre4\\Programacion Web 3\\WAMVC\\WebAppMVC\\Views\\Pedido\\Create.cshtml",
               "RelativeDocumentMoniker": "Views\\Pedido\\Create.cshtml",
@@ -255,35 +298,38 @@
               "RelativeToolTip": "Views\\Pedido\\Create.cshtml",
               "ViewState": "AgIAAAwAAAAAAAAAAAAQwCUAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-16T21:14:12.212Z"
+              "WhenOpened": "2025-09-16T21:14:12.212Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "_Layout.cshtml.css",
               "DocumentMoniker": "E:\\Univalle\\Semestre4\\Programacion Web 3\\WAMVC\\WebAppMVC\\Views\\Shared\\_Layout.cshtml.css",
               "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml.css",
               "ToolTip": "E:\\Univalle\\Semestre4\\Programacion Web 3\\WAMVC\\WebAppMVC\\Views\\Shared\\_Layout.cshtml.css",
               "RelativeToolTip": "Views\\Shared\\_Layout.cshtml.css",
-              "ViewState": "AgIAADMBAAAAAAAAAAAAAFQBAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAADABAAAAAAAAAIBJwFQBAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-09-16T23:52:12.603Z"
+              "WhenOpened": "2025-09-16T23:52:12.603Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 13,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "E:\\Univalle\\Semestre4\\Programacion Web 3\\WAMVC\\WebAppMVC\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
               "ToolTip": "E:\\Univalle\\Semestre4\\Programacion Web 3\\WAMVC\\WebAppMVC\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAAAAsAAAA4AAAAAAAAAA==",
+              "ViewState": "AgIAABsAAAAAAAAAAIBJwAsAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-16T23:41:07.201Z"
+              "WhenOpened": "2025-09-16T23:41:07.201Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 15,
               "Title": "ArtesaniasDBContext.cs",
               "DocumentMoniker": "E:\\Univalle\\Semestre4\\Programacion Web 3\\WAMVC\\WebAppMVC\\Data\\ArtesaniasDBContext.cs",
               "RelativeDocumentMoniker": "Data\\ArtesaniasDBContext.cs",
@@ -291,35 +337,38 @@
               "RelativeToolTip": "Data\\ArtesaniasDBContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-18T21:20:32.26Z"
+              "WhenOpened": "2025-09-18T21:20:32.26Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 17,
               "Title": "PedidoController.cs",
               "DocumentMoniker": "E:\\Univalle\\Semestre4\\Programacion Web 3\\WAMVC\\WebAppMVC\\Controllers\\PedidoController.cs",
               "RelativeDocumentMoniker": "Controllers\\PedidoController.cs",
               "ToolTip": "E:\\Univalle\\Semestre4\\Programacion Web 3\\WAMVC\\WebAppMVC\\Controllers\\PedidoController.cs",
               "RelativeToolTip": "Controllers\\PedidoController.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABUAAAAAAAAAAABQwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-18T21:23:57.105Z"
+              "WhenOpened": "2025-09-18T21:23:57.105Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 16,
               "Title": "ClienteController.cs",
               "DocumentMoniker": "E:\\Univalle\\Semestre4\\Programacion Web 3\\WAMVC\\WebAppMVC\\Controllers\\ClienteController.cs",
               "RelativeDocumentMoniker": "Controllers\\ClienteController.cs",
               "ToolTip": "E:\\Univalle\\Semestre4\\Programacion Web 3\\WAMVC\\WebAppMVC\\Controllers\\ClienteController.cs",
               "RelativeToolTip": "Controllers\\ClienteController.cs",
-              "ViewState": "AgIAAHcAAAAAAAAAAAAuwAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAHcAAAAAAAAAAAA8wAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-17T00:15:17.47Z"
+              "WhenOpened": "2025-09-17T00:15:17.47Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 19,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "E:\\Univalle\\Semestre4\\Programacion Web 3\\WAMVC\\WebAppMVC\\Views\\Cliente\\Edit.cshtml",
               "RelativeDocumentMoniker": "Views\\Cliente\\Edit.cshtml",
@@ -327,11 +376,12 @@
               "RelativeToolTip": "Views\\Cliente\\Edit.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-16T21:18:02.083Z"
+              "WhenOpened": "2025-09-16T21:18:02.083Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 21,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "E:\\Univalle\\Semestre4\\Programacion Web 3\\WAMVC\\WebAppMVC\\Views\\DetallePedido\\Edit.cshtml",
               "RelativeDocumentMoniker": "Views\\DetallePedido\\Edit.cshtml",
@@ -339,11 +389,12 @@
               "RelativeToolTip": "Views\\DetallePedido\\Edit.cshtml",
               "ViewState": "AgIAACgAAAAAAAAAAAAQwEYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-16T21:15:04.556Z"
+              "WhenOpened": "2025-09-16T21:15:04.556Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 22,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "E:\\Univalle\\Semestre4\\Programacion Web 3\\WAMVC\\WebAppMVC\\Views\\Producto\\Edit.cshtml",
               "RelativeDocumentMoniker": "Views\\Producto\\Edit.cshtml",
@@ -351,21 +402,21 @@
               "RelativeToolTip": "Views\\Producto\\Edit.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAEYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-16T21:12:30.571Z"
+              "WhenOpened": "2025-09-16T21:12:30.571Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 23,
               "Title": "apps.json",
               "DocumentMoniker": "C:\\Users\\User one\\AppData\\Local\\github-copilot\\apps.json",
               "ToolTip": "C:\\Users\\User one\\AppData\\Local\\github-copilot\\apps.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-09-16T20:55:31.982Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 20,
               "Title": "Create.cshtml",
               "DocumentMoniker": "E:\\Univalle\\Semestre4\\Programacion Web 3\\WAMVC\\WebAppMVC\\Views\\Cliente\\Create.cshtml",
               "RelativeDocumentMoniker": "Views\\Cliente\\Create.cshtml",
@@ -373,23 +424,25 @@
               "RelativeToolTip": "Views\\Cliente\\Create.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-16T20:43:42.615Z"
+              "WhenOpened": "2025-09-16T20:43:42.615Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 24,
               "Title": "Index.cshtml",
               "DocumentMoniker": "E:\\Univalle\\Semestre4\\Programacion Web 3\\WAMVC\\WebAppMVC\\Views\\DetallePedido\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\DetallePedido\\Index.cshtml",
               "ToolTip": "E:\\Univalle\\Semestre4\\Programacion Web 3\\WAMVC\\WebAppMVC\\Views\\DetallePedido\\Index.cshtml",
               "RelativeToolTip": "Views\\DetallePedido\\Index.cshtml",
-              "ViewState": "AgIAAFEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAE4AAAAAAAAAAIBJwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-16T20:22:13.562Z"
+              "WhenOpened": "2025-09-16T20:22:13.562Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 26,
               "Title": "Index.cshtml",
               "DocumentMoniker": "E:\\Univalle\\Semestre4\\Programacion Web 3\\WAMVC\\WebAppMVC\\Views\\Cliente\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Cliente\\Index.cshtml",
@@ -397,11 +450,12 @@
               "RelativeToolTip": "Views\\Cliente\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-16T20:22:08.566Z"
+              "WhenOpened": "2025-09-16T20:22:08.566Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 25,
               "Title": "Index.cshtml",
               "DocumentMoniker": "E:\\Univalle\\Semestre4\\Programacion Web 3\\WAMVC\\WebAppMVC\\Views\\Pedido\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Pedido\\Index.cshtml",
@@ -409,7 +463,8 @@
               "RelativeToolTip": "Views\\Pedido\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-16T20:22:05.566Z"
+              "WhenOpened": "2025-09-16T20:22:05.566Z",
+              "EditorCaption": ""
             }
           ]
         }

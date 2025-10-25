@@ -7,6 +7,7 @@ namespace WebAppMVC.Data
     {
         public ArtesaniasDBContext(DbContextOptions<ArtesaniasDBContext> options) : base(options) { }
 
+        public DbSet<UsuarioModel> Usuarios { get; set; }
         public DbSet<ProductoModel> Productos { get; set; }
         public DbSet<ClienteModel> Clientes { get; set; }
         public DbSet<PedidoModel> Pedidos { get; set; }
@@ -15,6 +16,11 @@ namespace WebAppMVC.Data
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
+            // Configurar índice único para el email
+            modelBuilder.Entity<UsuarioModel>()
+                .HasIndex(u => u.Email)
+                .IsUnique();
+
             // Configuración de la relación entre Pedido y Cliente (Many-to-One)
             // Un Pedido tiene Un Cliente, y Un Cliente tiene Muchos Pedidos
             modelBuilder.Entity<PedidoModel>()
