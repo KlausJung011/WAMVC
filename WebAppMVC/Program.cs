@@ -22,6 +22,34 @@ builder.Services.AddAuthentication(CookieAuthenticationDefaults.AuthenticationSc
         options.SlidingExpiration = true;
     });
 
+builder.Services.AddAuthorization(options =>
+{
+    // Política para mayores de edad
+    options.AddPolicy("mayoresEdad", policy =>
+        policy.RequireAssertion(context =>
+        {
+            var user = context.User;
+            if (user.Identity?.IsAuthenticated == true)
+            {
+                var birthDateClaim = user.FindFirst("FechaNacimiento");
+                if (birthDateClaim != null && DateTime.TryParse(birthDateClaim.Value, out DateTime birthDate))
+                {
+                    var edad = DateTime.Today.Year - birthDate.Year;
+                    if (birthDate.Date > DateTime.Today.AddYears(-edad)) edad--;
+                    return edad >= 18;
+                }
+            }
+            return false;
+        }));
+
+    // Política solo para administradores
+    options.AddPolicy("Administrador", policy => policy.RequireRole("Admin"));
+
+    // Política para admin o usuario
+    options.AddPolicy("Todos", policy =>
+        policy.RequireRole("Admin", "Usuario"));
+});
+
 var app = builder.Build();
 
 using (var scope = app.Services.CreateScope())
