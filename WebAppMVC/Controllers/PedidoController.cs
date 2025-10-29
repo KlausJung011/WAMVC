@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
@@ -10,6 +11,7 @@ using WebAppMVC.Models;
 
 namespace WebAppMVC.Controllers
 {
+    [Authorize(Policy = "Todos")]
     public class PedidoController : Controller
     {
         private readonly ArtesaniasDBContext _context;

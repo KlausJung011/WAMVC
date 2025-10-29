@@ -32,7 +32,7 @@ namespace WebAppMVC.Data
                     Password = BCrypt.Net.BCrypt.HashPassword("Menor123!"),
                     NombreCompleto = "Juan Menor",
                     FechaNacimiento = DateTime.Now.AddYears(-15),
-                    Rol = "Usuario",
+                    Rol = "Empleado",
                     Activo = true
                 },
                 new UsuarioModel
@@ -41,7 +41,7 @@ namespace WebAppMVC.Data
                     Password = BCrypt.Net.BCrypt.HashPassword("Mayor123!"),
                     NombreCompleto = "María Mayor",
                     FechaNacimiento = DateTime.Now.AddYears(-25),
-                    Rol = "Usuario",
+                    Rol = "Empleado",
                     Activo = true
                 }
             };

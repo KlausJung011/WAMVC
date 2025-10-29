@@ -96,7 +96,7 @@ namespace WebAppMVC.Controllers
                 Password = BCrypt.Net.BCrypt.HashPassword(password),
                 NombreCompleto = nombreCompleto,
                 FechaNacimiento = fechaNacimiento,
-                Rol = "Usuario",
+                Rol = "Empleado",
                 Activo = true
             };
 

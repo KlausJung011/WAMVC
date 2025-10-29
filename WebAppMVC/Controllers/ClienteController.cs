@@ -11,6 +11,7 @@ using WebAppMVC.Models;
 
 namespace WebAppMVC.Controllers
 {
+    [Authorize(Policy = "Administrador")]
     public class ClienteController : Controller
     {
         private readonly ArtesaniasDBContext _context;

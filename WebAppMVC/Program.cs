@@ -47,7 +47,7 @@ builder.Services.AddAuthorization(options =>
 
     // Política para admin o usuario
     options.AddPolicy("Todos", policy =>
-        policy.RequireRole("Admin", "Usuario"));
+        policy.RequireRole("Admin", "Empleado"));
 });
 
 var app = builder.Build();
