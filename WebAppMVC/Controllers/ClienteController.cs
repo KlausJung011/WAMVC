@@ -11,7 +11,7 @@ using WebAppMVC.Models;
 
 namespace WebAppMVC.Controllers
 {
-    [Authorize(Policy = "Administrador")]
+    [Authorize(Policy = "Todos")]
     public class ClienteController : Controller
     {
         private readonly ArtesaniasDBContext _context;
@@ -45,6 +45,7 @@ namespace WebAppMVC.Controllers
             return View(clienteModel);
         }
 
+        [Authorize(Policy = "Administrador")]
         // GET: Cliente/Create
         public IActionResult Create()
         {
@@ -67,6 +68,7 @@ namespace WebAppMVC.Controllers
             return View(clienteModel);
         }
 
+        [Authorize(Policy = "Administrador")]
         // GET: Cliente/Edit/5
         public async Task<IActionResult> Edit(int? id)
         {
@@ -119,6 +121,7 @@ namespace WebAppMVC.Controllers
         }
 
         // GET: Cliente/Delete/5
+        [Authorize(Policy = "Administrador")]
         public async Task<IActionResult> Delete(int? id)
         {
             if (id == null)
